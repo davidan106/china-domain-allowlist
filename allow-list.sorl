@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2021/05/19
+; Update Date: 2021/10/4
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -104,8 +104,6 @@
 *.aixifan.com
 *.aizhan.com
 *.akadns.net
-*.akamaihd.net
-*.akamaized.net
 *.akarin.me
 *.akarin.top
 *.aldwx.com
@@ -196,6 +194,7 @@
 *.btyingshi.com
 *.bumimi.com
 *.bybbs.org
+*.bytecdntp.com
 *.cachemoment.com
 *.caiyunapp.com
 *.cctv.com
@@ -212,6 +211,7 @@
 *.ceair.com
 *.cee.network
 *.chainnews.com
+*.chaoxing.com
 *.china.com
 *.chinassl.net
 *.chinaunix.net
@@ -225,6 +225,7 @@
 *.cli.im
 *.clouddn.com
 *.cloudinary.com
+*.cloudiplc.com
 *.cloudxns.net
 *.cmbchina.com
 *.cn.engadget.com
@@ -630,6 +631,7 @@
 *.oneplus.com
 *.oneplusbbs.com
 *.onlinedown.net
+*.ooklaserver.net
 *.open-open.com
 *.oppo.com
 *.ops.moe
@@ -711,6 +713,7 @@
 *.rr.tv
 *.rrfmn.com
 *.rrimg.com
+*.rsb.net
 *.rsc.org
 *.ruanmei.com
 *.ruanyifeng.com
@@ -826,6 +829,7 @@
 *.umeng.com
 *.umetrip.com
 *.undraw.co
+*.upai.com
 *.upaiyun.com
 *.upyun.com
 *.ustclug.org
